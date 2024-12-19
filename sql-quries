@@ -1,0 +1,8 @@
+
+   question-1
+select * from employee;
+
+ question-2
+select name,salary from employee;
+
+question-3
